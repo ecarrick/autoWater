@@ -13,10 +13,13 @@ Lua source code and documentation for ESP8266 running NodeMCU for automatic wate
 
 ##Hardware Used##
 Microcontroller: [Adafruit Huzzah ESP8266](https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/overview)
+
 Soil Moisture Sensor: [SparkFun Soil Moisture Sensor](https://www.sparkfun.com/products/13322)
+
 Pump: [Uniclife 40 - 80 GPH Submersible Pump](https://www.amazon.com/gp/product/B01E5A51FE/)
+
 Pump Relay: [SparkFun PowerSwitch](https://www.sparkfun.com/products/10747)
-200 kohm resistor
-100 kohm resistor
+
+200 kohm resistor, 100 kohm resistor
 
 ##Setup and Wiring##

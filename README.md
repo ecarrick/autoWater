@@ -12,3 +12,4 @@ Lua source code and documentation for ESP8266 running NodeMCU for automatic wate
 ![Soil Dry Sequence Diagram](docs/4181_EC_Proposal_Sequence_Dry.png?raw=true&=287x "Soil Dry Sequence Diagram")
 
 ##Hardware Used##
+Microcontroller: [Adafruit Huzzah ESP8266](https://learn.adafruit.com/adafruit-huzzah-esp8266-breakout/overview)
